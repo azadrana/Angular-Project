@@ -1,0 +1,180 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Omer1",
+      "email": "omer1@gmail.com",
+      "password": "abc1@123",
+      "id": 2
+    },
+    {
+      "name": "azad",
+      "password": "abc123",
+      "email": "abc@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "omer5",
+      "password": "abc555",
+      "email": "abc5@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "jarvis",
+      "password": "jarvis123",
+      "email": "jarvis@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "azad3",
+      "password": "123abc3",
+      "email": "abc33@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "annonymous",
+      "password": "123anno",
+      "email": "abc55@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "azad",
+      "password": "abc@123",
+      "email": "azad@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "azad1",
+      "password": "azad1",
+      "email": "azad1@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "azad",
+      "password": "123anno",
+      "email": "abc33@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "azad",
+      "password": "azad123",
+      "email": "abc@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "azad",
+      "password": "azad@123",
+      "email": "abc@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "azad",
+      "password": "abc",
+      "email": "abc33@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "azad",
+      "password": "abc",
+      "email": "abc33@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "azad",
+      "password": "123anno",
+      "email": "abc33@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "azad",
+      "password": "abc",
+      "email": "abc33@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "AZAD RANA",
+      "password": "azad1",
+      "email": "salllu2211@gmail.com",
+      "id": 17
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "phone1",
+      "price": "200",
+      "category": "c1",
+      "color": "black",
+      "image": "https://picsum.photos/id/237/200/300",
+      "description": "hello omer",
+      "id": 1
+    },
+    {
+      "name": "samsung",
+      "price": "200",
+      "Color": "black",
+      "Category": "s1",
+      "description": "s1 samsung",
+      "image": "https://picsum.photos/id/237/200/300",
+      "id": 2
+    },
+    {
+      "name": "Iphone",
+      "price": "500",
+      "Color": "black",
+      "Category": "I phone 15",
+      "description": "Apple Product",
+      "image": "www.apple.com",
+      "id": 3
+    },
+    {
+      "name": "Iphone",
+      "price": "500",
+      "Color": "black",
+      "Category": "I phone 15",
+      "description": "Apple Product",
+      "image": "www.apple.com",
+      "id": 4
+    },
+    {
+      "name": "Iphone",
+      "price": "500",
+      "Color": "black",
+      "Category": "I phone 15",
+      "description": "Apple Product",
+      "image": "www.apple.com",
+      "id": 5
+    },
+    {
+      "name": "samsung guru",
+      "price": "200",
+      "Color": "white",
+      "Category": "Guru",
+      "description": "Samsung Phone",
+      "image": "www.samsung.com",
+      "id": 6
+    },
+    {
+      "name": "Nokia",
+      "price": "200",
+      "Color": "Green",
+      "Category": "C1",
+      "description": "Nokia Product",
+      "image": "www.nokia.com",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
